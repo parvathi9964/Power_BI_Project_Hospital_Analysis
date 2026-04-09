@@ -42,4 +42,6 @@ Your dataset contains 6000 patient records.
 * TreatmentCost
 * Outcome	
 
+## **Dashboard**
+<img width="700" height="400" alt="Health_care_anlaysis" src="https://github.com/user-attachments/assets/2268ac6e-6629-4784-97ff-5864a786ab3a" />
 
