@@ -43,5 +43,6 @@ Your dataset contains 6000 patient records.
 * Outcome	
 
 ## **Dashboard**
-<img width="700" height="400" alt="Health_care_anlaysis" src="https://github.com/user-attachments/assets/2268ac6e-6629-4784-97ff-5864a786ab3a" />
+<img width="700" height="500" alt="Health_care" src="https://github.com/user-attachments/assets/743836d7-8563-44f8-95f8-478921cf7f3a" />
+
 
